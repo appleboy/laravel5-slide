@@ -1,0 +1,34 @@
+.reveal ul li {
+	font-size: 1.2em;
+}
+
+.reveal p > code, .reveal ul li > code {
+	background: #eee;
+	color: #f4645f;
+	padding: 0 5px;
+	border-radius: 3px;
+}
+
+.self-introduce-wrapper {
+
+}
+.self-introduce-image-wrapper {
+	width: 25%;
+	overflow: hidden;
+	border-radius: 50%;
+	padding: 40px!important;
+	float: left;
+}
+
+.self-introduce-content-wrapper {
+	width: 600px;
+	padding-top: 50px!important;
+	margin-left: 260px!important;
+	text-align: left;
+}
+
+.self-introduce-iam {
+	font-size: 3em!important;
+	margin-top: 50px!important;
+	margin-left: 200px!important;
+}
